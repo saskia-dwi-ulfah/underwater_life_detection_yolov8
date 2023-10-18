@@ -1,0 +1,8 @@
+# Path
+train: /content/drive/MyDrive/REA Projects/Object Detection/aquarium-data-cots/aquarium_pretrain/train/images
+val: /content/drive/MyDrive/REA Projects/Object Detection/aquarium-data-cots/aquarium_pretrain/valid/images
+test: /content/drive/MyDrive/REA Projects/Object Detection/aquarium-data-cots/aquarium_pretrain/test/images
+
+# Classes
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
